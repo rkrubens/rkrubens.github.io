@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rkrubens.github.io/sitemap.xml
+Sitemap: https://raphaelkfurirubens.com/sitemap.xml
